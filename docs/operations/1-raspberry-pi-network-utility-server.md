@@ -59,7 +59,7 @@ The system was designed using the following principles:
 
 ## High-Level Architecture
 
-```text
+```
 Trusted Admin Device
         |
         | Secure SSH Access
