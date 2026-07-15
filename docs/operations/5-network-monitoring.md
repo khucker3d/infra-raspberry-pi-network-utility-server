@@ -28,6 +28,8 @@ The monitoring system tracks the availability and health of key internal infrast
 
 ## Monitoring Services
 
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/KumaUpDashboard.png" alt="UpTime Kuma" width="600">
+
 The monitoring design uses multiple layers of visibility. Uptime monitoring is used to verify whether important network devices and internal services are reachable. This provides a quick operational view of service availability and helps identify outages affecting core infrastructure.
 
 Example monitored categories include:
@@ -38,11 +40,6 @@ Example monitored categories include:
 * DNS service availability
 * Internal dashboard availability
 * Utility server availability
-
-#### Monitoring Dashboard Example
-The monitoring dashboard provides a centralized view of internal service availability, including network devices, DNS services, infrastructure dashboards, and lab systems.
-
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/KumaUpDashboard.png" alt="UpTime Kuma" width="600">
 
 ### Host Health Monitoring
 
