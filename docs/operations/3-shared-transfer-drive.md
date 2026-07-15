@@ -1,7 +1,7 @@
 # 3. Shared Transfer Drive Setup
 
 <p align="center">
-  <img src="images/pi-hardware-ds223.JPG" alt="Seagate - One Touch Hub" width="400">
+  <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/hardware-seagate.JPG" alt="Seagate - One Touch Hub" width="400">
 </p>
 
 ## Overview
@@ -64,12 +64,11 @@ The shared transfer drive supports:
 The shared transfer drive was validated from multiple trusted client operating systems to confirm that the file-sharing workflow works across platforms.
 
 ### macOS Access Test
-
-![macOS Finder showing access to the shared transfer drive](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/TransferDrive_Mac.png)
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/TransferDrive_Mac.png" alt="macOS Finder showing access to the shared transfer drive" width="600">
 
 ### Windows Access Test
 
-![Windows File Explorer showing access to the shared transfer drive](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/TransferDrive_Windows.png)
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/TransferDrive_Windows.png" alt="mindows File Explorer showing access to the shared transfer drive" width="600">
 
 ## Storage Concepts Demonstrated
 
