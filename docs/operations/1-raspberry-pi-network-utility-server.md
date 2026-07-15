@@ -41,7 +41,7 @@ The utility server supports the following functions:
 
 Pi-hole DNS Filtering |	Uptime Kuma Availability Monitoring | Netdata Host Health Monitoring
 |----------------------|-----------------------|-----------------------|
-| <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/Pi-hole.png" alt="Pi-hole dashboard showing DNS filtering and query visibility" width="400"> | <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/KumaUpDashboard.png" alt="Uptime Kuma dashboard showing monitored infrastructure services" width="400"> | <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/NetData.png" alt="Netdata dashboard showing utility server health metrics" width="400"> 
+| <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/pi-hole.png" alt="Pi-hole dashboard showing DNS filtering and query visibility" width="400"> | <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/kuma-up-dashboard.png" alt="Uptime Kuma dashboard showing monitored infrastructure services" width="400"> | <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/net-data.png" alt="Netdata dashboard showing utility server health metrics" width="400"> 
 
 ## Design Principles
 
