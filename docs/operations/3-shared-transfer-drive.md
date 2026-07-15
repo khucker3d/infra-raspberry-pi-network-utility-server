@@ -1,22 +1,20 @@
 # 3. Shared Transfer Drive Setup
 
+<p align="center">
+  <img src="images/pi-hardware-ds223.JPG" alt="Seagate - One Touch Hub" width="400">
+</p>
+
 ## Overview
 
-This document describes the sanitized design for a shared transfer drive connected to the Raspberry Pi network utility server.
-
-The shared transfer drive provides a local file transfer workflow for trusted devices on the internal network.
+This document describes the sanitized design for a shared transfer drive connected to the Raspberry Pi network utility server. The shared transfer drive provides a local file transfer workflow for trusted devices on the internal network.
 
 ## Purpose
 
-The shared transfer drive was created as a temporary internal alternative to cloud-based file transfer workflows.
-
-It supports controlled movement of files between trusted systems while helping build practical experience with Linux storage, mounting, permissions, and file-sharing concepts.
+The shared transfer drive was created as a temporary internal alternative to cloud-based file transfer workflows. It supports controlled movement of files between trusted systems while helping build practical experience with Linux storage, mounting, permissions, and file-sharing concepts.
 
 ## Hardware
 
-https://www.amazon.com/dp/B093X2D4ZM?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_15&th=1
-
-* Seagate - One Touch Hub
+* [Seagate - One Touch Hub](https://www.amazon.com/dp/B093X2D4ZM?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_15&th=1)
 * 4TB External Hard Drive Desktop HDD
 * USB-C and USB 3.0 port
 
