@@ -43,6 +43,8 @@ Example monitored categories include:
 
 ### Host Health Monitoring
 
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/NetData.png" alt="Netdata dashboard showing utility server host metrics" width="600">
+
 Host-level monitoring is used to observe the health of the utility server.
 
 Example metrics include:
@@ -55,11 +57,6 @@ Example metrics include:
 * Temperature
 * Container or service status
 
-#### Host Metrics Example
-
-Host-level metrics are used to monitor the utility server’s CPU, memory, disk, network, and system health.
-
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/NetData.png" alt="Netdata dashboard showing utility server host metrics" width="600">
 
 ### DNS Visibility
 
@@ -131,7 +128,7 @@ Alerts should be tuned to reduce noise and focus on events that require action.
 
 Alert notifications are used to validate that service outages and recoveries are detected and reported through the expected notification channel.
 
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/DiscordNotification.png" alt="Discord alert test showing service down and recovery notifications" width="600">
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/DiscordNotification.png" alt="Discord alert test showing service down and recovery notifications" width="400">
 
 ## Operational Workflow
 
