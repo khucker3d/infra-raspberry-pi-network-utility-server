@@ -43,9 +43,6 @@ Pi-hole DNS Filtering |	Uptime Kuma Availability Monitoring | Netdata Host Healt
 |----------------------|-----------------------|-----------------------|
 | <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/Pi-hole.png" alt="Pi-hole dashboard showing DNS filtering and query visibility" width="400"> | <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/KumaUpDashboard.png" alt="Uptime Kuma dashboard showing monitored infrastructure services" width="400"> | <img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/NetData.png" alt="Netdata dashboard showing utility server health metrics" width="400"> 
 
-
-
-
 ## Design Principles
 
 The system was designed using the following principles:
@@ -85,8 +82,6 @@ Enterprise-Inspired Home Network
 ## Service Categories
 
 ### DNS and Network Visibility
-
-<img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/Pi-hole.png" alt="" width="400">
 
 The utility server provides internal DNS filtering and visibility into local DNS activity. This helps demonstrate how DNS can be used as both a network service and a security control.
 
