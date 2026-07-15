@@ -1,9 +1,5 @@
 <h1 align="center">Raspberry Pi Network Utility Server</h1>
 
-<h3 align="center">
-Enterprise-Inspired Network Architecture Project
-</h3>
-
 <p align="center">
 
 Designing, securing, monitoring, and documenting a Raspberry Pi-based internal utility server used for DNS filtering, uptime monitoring, host health visibility, secure administration, shared file transfer workflows, and backup support.
@@ -11,8 +7,7 @@ Designing, securing, monitoring, and documenting a Raspberry Pi-based internal u
 </p>
 
 <p align="center">
-
-![](images/pi-hardware.jpg)
+<img src="https://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/pi-hardware.JPG" alt="" width="400">
 
 </p>
 
