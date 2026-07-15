@@ -93,11 +93,11 @@ The purpose of this documentation is to demonstrate infrastructure design, opera
 ***Documentation Scope:** This public repository contains a high-level, sanitized overview of the project. More detailed internal documentation exists separately, including step-by-step walkthroughs, configuration procedures, validation steps, troubleshooting notes, and operational runbooks. Sensitive environment-specific details have been intentionally excluded for security reasons.**
 
 **Operations:**
-- [1. Raspberry Pi Network Utility Server](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/1-raspberry-pi-network-utility-server.md)
-- [2. ssh Administration](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/2-ssh-administration.md)
-- [3. Shared Transfer Drive](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/3-shared-transfer-drive.md)
-- [4. Utility Services Backup and Recovery](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/4-backup-and-recovery-utility-services.md)
-- [5. Network Monitoring](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/5-network-monitoring.md)
+1. [Raspberry Pi Network Utility Server](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/1-raspberry-pi-network-utility-server.md)
+2. [ssh Administration](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/2-ssh-administration.md)
+3. [Shared Transfer Drive](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/3-shared-transfer-drive.md)
+4. [Utility Services Backup and Recovery](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/4-backup-and-recovery-utility-services.md)
+5. [Network Monitoring](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/operations/5-network-monitoring.md)
 
 **Runbooks:**
 - [Template](https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/docs/runbooks/runbook-template.md)
