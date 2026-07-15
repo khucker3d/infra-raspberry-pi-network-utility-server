@@ -28,7 +28,7 @@ The monitoring system tracks the availability and health of key internal infrast
 
 ## Monitoring Services
 
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/KumaUpDashboard.png" alt="UpTime Kuma" width="600">
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/kuma-up-dashboard.png" alt="UpTime Kuma" width="600">
 
 The monitoring design uses multiple layers of visibility. Uptime monitoring is used to verify whether important network devices and internal services are reachable. This provides a quick operational view of service availability and helps identify outages affecting core infrastructure.
 
@@ -43,7 +43,7 @@ Example monitored categories include:
 
 ### Host Health Monitoring
 
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/NetData.png" alt="Netdata dashboard showing utility server host metrics" width="600">
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/net-data.png" alt="Netdata dashboard showing utility server host metrics" width="600">
 
 Host-level monitoring is used to observe the health of the utility server.
 
@@ -66,7 +66,7 @@ This supports both operational troubleshooting and basic security awareness by s
 
 ### Security Monitoring
 
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/WazuhDashboard.png" alt="Wazuh dashboard showing security monitoring categories" width="600">
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/wazuh-dashboard.png" alt="Wazuh dashboard showing security monitoring categories" width="600">
 
 Security monitoring is handled separately from basic uptime monitoring. Security-focused tools are used to collect and analyze security-relevant events from lab systems and monitored endpoints.
 
@@ -128,7 +128,7 @@ Alerts should be tuned to reduce noise and focus on events that require action.
 
 Alert notifications are used to validate that service outages and recoveries are detected and reported through the expected notification channel.
 
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/DiscordNotification.png" alt="Discord alert test showing service down and recovery notifications" width="400">
+<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/discord-notification.png" alt="Discord alert test showing service down and recovery notifications" width="400">
 
 ## Operational Workflow
 
