@@ -8,6 +8,8 @@ The system provides lightweight internal services that support monitoring, DNS v
 
 ## Hardware
 
+![](images/pi-hardware.JPG)
+
 - [Raspberry Pi 5](https://www.amazon.com/dp/B0CRSNCJ6Y?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 - 2.4GHz 64-bit quad-core CPU 
 - 8GB RAM
