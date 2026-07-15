@@ -68,7 +68,7 @@ The shared transfer drive was validated from multiple trusted client operating s
 
 ### Windows Access Test
 
-<img src="https://github.com/khucker3d/raspberry-pi-network-utility-server/blob/main/images/TransferDrive_Windows.png" alt="mindows File Explorer showing access to the shared transfer drive" width="600">
+<img src="hhttps://github.com/khucker3d/infra-raspberry-pi-network-utility-server/blob/main/images/transfer-shared-pc.png" alt="Windows File Explorer showing access to the shared transfer drive" width="600">
 
 ## Storage Concepts Demonstrated
 
